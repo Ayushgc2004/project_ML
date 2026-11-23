@@ -3,4 +3,6 @@ import pandas as pd
 
 df = pd.read_csv("StudentData_sample.csv")
 
-print(df)
+# print(df)
+
+print(df.head())
