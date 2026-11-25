@@ -12,3 +12,4 @@ le = LabelEncoder()
 encoded_gender = le.fit_transform(gender)
 
 print("Encoded Gender Data:", encoded_gender)
+
