@@ -6,3 +6,5 @@ df = pd.read_csv("StudentData_sample.csv")
 # print(df)
 
 print(df.head())
+
+print(df.describe())
